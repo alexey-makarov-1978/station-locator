@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PointTester renders matching message for 0, 0 1`] = `
+<div>
+  Best link station for point 0, 0 is 0, 0 with power 100.00
+</div>
+`;
+
+exports[`PointTester renders no matching message for 100, 100 1`] = `
+<div>
+  No link station within reach for point 100, 100
+</div>
+`;
